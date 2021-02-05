@@ -5,6 +5,7 @@ I extracted GLCM features and some other statistical features from medical image
 The final model can be used to replace a radiation detector in measuring HVL, that is why the repository name is Electronic Radiation Detector.
 
 File Description:
+
 Feature_Extraction_Github.py  : This code was used by me to extract some features from medical images
 Image_Segmentation_Github.py  : This code will give the segmented or cropped medical images to multiply the amount of data (but in the end, I didn't use the segmented images)
 Machine_Learning_Github.py    : This code was used by me to make an ANN model
